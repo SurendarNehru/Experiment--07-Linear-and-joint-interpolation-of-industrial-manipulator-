@@ -1,5 +1,5 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
-#### NAME:SUENDARN
+#### NAME:SUENDAR N
 #### DATE:26/04/2024
 #### REGISTER NUMBER: 212222040165
 #### DEPT:CSE
